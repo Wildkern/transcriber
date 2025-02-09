@@ -1,0 +1,6 @@
+src/__pycache__/
+*.wav
+*.mp4
+*.mp3
+transcriptions/
+.env
